@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="www.linkedin.com/in/danielcomasbaz">Artificial Intelligence Student</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://linkedin.com/in/DanielComasBaz">Artificial Intelligence Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
